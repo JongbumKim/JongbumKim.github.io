@@ -19,7 +19,7 @@ description: >
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl:  # the subpath of your site, e.g. /blog/
-url: "http://bencentra.github.io" # the base hostname & protocol for your site
+url: "https://jongbumkim.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
@@ -81,7 +81,7 @@ social:
   - name: LinkedIn
     icon: linkedin
     username: Jongbum Kim
-    url: linkedin.com/in/jongbum-kim-59b9b2b3
+    url: https://www.linkedin.com/in/jongbum-kim-59b9b2b3/
     desc: Connect with me on LinkedIn
     share: true
 
