@@ -28,6 +28,7 @@ For example, in the case of gut microbiota, due to the wide diversity of microbi
 <a href="/assets/lefse/lefse_non-parametric.PNG" data-lightbox="falcon9-large" data-title="example">
   <img src="/assets/lefse/lefse_non-parametric.PNG" title="example">
 </a>
+
 --------------------------------
 ## Normality test
 
@@ -46,4 +47,5 @@ hist(non.normality.data)
 <a href="/assets/lefse/shapiro_wilk_test.png" data-title="shapiro-wilk test">
   <img src="/assets/lefse/shapiro_wilk_test.png" title="shapiro-wilk test">
 </a>
+
 --------------------------------
