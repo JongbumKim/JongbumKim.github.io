@@ -9,7 +9,7 @@ output:
     self_contained: TRUE
 ---
 
-Contact Info {#contact}
+Contact Info
 --------------------------------------------------------------------------------
 
 -<i class="fa fa-envelope"></i> whdqja1210@naver.com
@@ -18,7 +18,7 @@ Contact Info {#contact}
 
 
 
-Core Skills {#skills}
+Core Skills
 -------------------------------------------------------------------
 - Highly skilled in R, Bash
 - Familiar with Linux, python
@@ -35,9 +35,7 @@ Education
 
 Publication
 --------------------------------------------------------------------------------
- - **P-TEFb regulates transcriptional activation in noncoding RNA genes (Front Genet. 2019 Apr 24;10:342)
-      
- - **De novo assembly and phasing of a Korean human genome (Nature volume 538, pages 243-247 (13 October 2016))
- 
- - **In silico Identification of SFRP1 as a Hypermethylated Gene in Colorectal Cancers (Genomics Inform. 2014;12(4):171-80.)
+ - P-TEFb regulates transcriptional activation in noncoding RNA genes (Front Genet. 2019 Apr 24;10:342)
+ - De novo assembly and phasing of a Korean human genome (Nature volume 538, pages 243-247 (13 October 2016))
+ - In silico Identification of SFRP1 as a Hypermethylated Gene in Colorectal Cancers (Genomics Inform. 2014;12(4):171-80.)
 
