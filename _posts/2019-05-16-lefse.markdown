@@ -18,6 +18,7 @@ Normal distribution does not fit well to the metagenomic data.
 The specific property of metagenomic data is that the normal distribution implied in many statistical tests does not describe this type of data well. 
 * First of all, normal distribution is continuous while the metagenomic sequencing data have discrete nature.
 * Second, components of a feature vector cannot be negative. At the same time the mean value of taxon abundance is ofen comparable to its variance and the abundance matrix is sparse (has many zero values).
+
 For example, in the case of gut microbiota, due to the wide diversity of microbial community structures, a typical bacterial species has zero or low abundance in microbiota of the majority of people while only a small fraction of the population carry high abundance (tens of per cent) of this species.A typical histogram of taxon abundance across samples is presented in Figure as below.
 
 <a href="/assets/lefse/lefse_non-parametric.PNG" data-lightbox="falcon9-large" data-title="example">
