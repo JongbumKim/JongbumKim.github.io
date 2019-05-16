@@ -2,7 +2,7 @@
 layout: post
 title:  "LEfSe!"
 date:   2019-05-16
-author: Jongbum Kim
+author: 
 categories: Statistics
 tags:	Amplicon Metagenome LEfSe LDA
 cover:  "/assets/instacode.png"
