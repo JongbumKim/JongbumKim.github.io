@@ -2,7 +2,6 @@
 layout: post
 title:  "LEfSe"
 date:   2019-05-16
-author: 
 categories: Statistics
 tags:	Amplicon Metagenome LEfSe LDA
 cover:  "/assets/instacode.png"
@@ -12,6 +11,15 @@ This post explains what LEfSe is and how LEfSe works. (in personal opinion and r
 
 ## LEfSe ?
 LDA Effect Size (LEfSe) (Segata et. al 2010) is An algorithm for High-Dimensional biomarker discovery and explanation that identifies genomic features (genes, pathways, or taxa) characterizing the differences between two or more biological conditions (or classes).
-<a href="https://bytebucket.org/biobakery/galaxy_lefse/wiki/lefse_ove.png" data-lightbox="falcon9-large" data-title="LEfSe work flow">
-  <img src="https://bytebucket.org/biobakery/galaxy_lefse/wiki/lefse_ove.png" title="LEfSe work flow">
+
+
+## Non-paramteric 
+Normal distribution does not fit well to the metagenomic data.
+The specific property of metagenomic data is that the normal distribution implied in many statistical tests does not describe this type of data well. 
+* First of all, normal distribution is continuous while the metagenomic sequencing data have discrete nature.
+* Second, components of a feature vector cannot be negative. At the same time the mean value of taxon abundance is ofen comparable to its variance and the abundance matrix is sparse (has many zero values).
+For example, in the case of gut microbiota, due to the wide diversity of microbial community structures, a typical bacterial species has zero or low abundance in microbiota of the majority of people while only a small fraction of the population carry high abundance (tens of per cent) of this species.A typical histogram of taxon abundance across samples is presented in Figure as below.
+
+<a href="/assets/lefse/lefse_non-parametric.PNG" data-lightbox="falcon9-large" data-title="example">
+  <img src="/assets/lefse/lefse_non-parametric.PNG" title="example">
 </a>
