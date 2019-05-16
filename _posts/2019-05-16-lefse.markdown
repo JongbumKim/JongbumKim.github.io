@@ -33,7 +33,7 @@ For example, in the case of gut microbiota, due to the wide diversity of microbi
 
 #### Shapiro-Wilk test
 The null-hypothesis of this test is that the population is normally distributed.
-```bash
+```r
 # create normally distributed data
 normality.data <- rnorm(1000)
 # create non-normally distributed data
@@ -43,7 +43,7 @@ par(mfrow=c(1,2))
 hist(normality.data)
 hist(non.normality.data)
 ```
-<a href="/assets/lefse/shapiro_wilk_test.PNG" data-lightbox="falcon9-large" data-title="shapiro-wilk test">
-  <img src="/assets/lefse/shapiro_wilk_test.PNG" title="shapiro-wilk test">
+<a href="/assets/lefse/shapiro_wilk_test.png" data-title="shapiro-wilk test">
+  <img src="/assets/lefse/shapiro_wilk_test.png" title="shapiro-wilk test">
 </a>
 
