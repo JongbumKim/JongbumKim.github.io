@@ -16,7 +16,7 @@ LDA Effect Size (LEfSe) (Segata et. al 2010) is An algorithm for High-Dimensiona
 
 
 ## Non-paramteric data
-
+--------------------------
 Normal distribution does not fit well to the metagenomic data ([https://doi.org/10.21775/cimb.024.017](https://doi.org/10.21775/cimb.024.017)).
 
 The specific property of metagenomic data is that the normal distribution implied in many statistical tests does not describe this type of data well. 
@@ -33,7 +33,7 @@ For example, in the case of gut microbiota, due to the wide diversity of microbi
 
 #### Shapiro-Wilk test
 The null-hypothesis of this test is that the population is normally distributed.
-```r
+```
 # create normally distributed data
 normality.data <- rnorm(1000)
 # create non-normally distributed data
