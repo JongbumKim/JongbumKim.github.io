@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "LEfSe"
+date:   2019-05-16
+author: 
+categories: Statistics
+tags:	Amplicon Metagenome LEfSe LDA
+cover:  "/assets/instacode.png"
+---
+
+This post explains what LEfSe is and how LEfSe works. (in personal opinion and review)
+
+## LEfSe ?
+LDA Effect Size (LEfSe) (Segata et. al 2010) is An algorithm for High-Dimensional biomarker discovery and explanation that identifies genomic features (genes, pathways, or taxa) characterizing the differences between two or more biological conditions (or classes).
+<a href="https://bytebucket.org/biobakery/galaxy_lefse/wiki/lefse_ove.png" data-lightbox="falcon9-large" data-title="LEfSe work flow">
+  <img src="https://bytebucket.org/biobakery/galaxy_lefse/wiki/lefse_ove.png" title="LEfSe work flow">
+</a>
