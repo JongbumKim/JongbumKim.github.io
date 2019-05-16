@@ -25,4 +25,4 @@ For example, in the case of gut microbiota, due to the wide diversity of microbi
   <img src="/assets/lefse/lefse_non-parametric.PNG" title="example">
 </a>
 
-(more information in [here](https://doi.org/10.21775/cimb.024.017).
+(more information in [here](https://doi.org/10.21775/cimb.024.017))
