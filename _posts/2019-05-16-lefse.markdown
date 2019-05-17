@@ -36,9 +36,12 @@ For example, in the case of gut microbiota, due to the wide diversity of microbi
 The null-hypothesis of this test is that the population is normally distributed.
 
 
-```{R}
-normality.d <- rnorm(1000) # create normally distributed \data
-non.normality.d <- rgeom(1000, 0.5) # create non-normally distributed \data
+```R
+# normally distributed 
+normality.d <- rnorm(1000)
+
+# non-normally distributed
+non.normality.d <- rgeom(1000, 0.5)
 
 # plotting
 par(mfrow=c(1,2))
