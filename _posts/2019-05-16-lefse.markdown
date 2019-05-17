@@ -35,7 +35,7 @@ For example, in the case of gut microbiota, due to the wide diversity of microbi
 #### Shapiro-Wilk test
 The null-hypothesis of this test is that the population is normally distributed.
 
-```{R}
+```r
 # create normally distributed data
 normality.data <- rnorm(1000)
 # create non-normally distributed data
