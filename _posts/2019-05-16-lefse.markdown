@@ -37,13 +37,13 @@ The null-hypothesis of this test is that the population is normally distributed.
 
 ```{r}
 # create normally distributed data
-normality.data <- rnorm(1000)
+normality_data <- rnorm(1000)
 # create non-normally distributed data
-non.normality.data <- rgeom(1000, 0.5)
+non_normality_data <- rgeom(1000, 0.5)
 # plotting
 par(mfrow=c(1,2))
-hist(normality.data)
-hist(non.normality.data)
+hist(normality_data)
+hist(non_normality_data)
 ```
 
 
