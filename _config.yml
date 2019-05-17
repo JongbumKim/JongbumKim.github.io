@@ -28,7 +28,7 @@ markdown: kramdown
 paginate: 5
 paginate_path: "/page:num/"
 inter_post_navigation: false
-highlightjs_theme: "Tomorrow-Night-Bright"
+highlightjs_theme: "Tomorrow_Night_Bright"
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
 jekyll-archives:
