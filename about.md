@@ -1,5 +1,5 @@
 ---
-title: "abount me"
+title: "about me"
 author: Jongbum Kim
 date: "2019-05-16"
 output:
