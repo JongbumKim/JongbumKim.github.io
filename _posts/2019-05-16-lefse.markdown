@@ -36,7 +36,7 @@ For example, in the case of gut microbiota, due to the wide diversity of microbi
 The null-hypothesis of this test is that the population is normally distributed.
 
 
-```R
+```r
 # normally distributed 
 normality.d <- rnorm(1000)
 
