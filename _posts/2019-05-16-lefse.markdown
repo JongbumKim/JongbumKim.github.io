@@ -82,12 +82,12 @@ If data does not show normality, mean value cannot be used for comparing two or 
 
 The [Kruskal–Wallis test](https://en.wikipedia.org/wiki/Kruskal%E2%80%93Wallis_one-way_analysis_of_variance) by ranks, Kruskal–Wallis H test (named after William Kruskal and W. Allen Wallis), or one-way ANOVA on ranks is a non-parametric method for testing whether samples originate from the same distribution. It is used for comparing two or more independent samples of equal or different sample sizes. It extends the Mann–Whitney U test, which is used for comparing only two groups. The parametric equivalent of the Kruskal–Wallis test is the one-way analysis of variance (ANOVA).
 
--Null hypothesis: Null hypothesis assumes that the samples (groups) are from identical populations.
--Alternative hypothesis: Alternative hypothesis assumes that at least one of the samples (groups) comes from a different population than the others.
+* Null hypothesis: Null hypothesis assumes that the samples (groups) are from identical populations.
+* Alternative hypothesis: Alternative hypothesis assumes that at least one of the samples (groups) comes from a different population than the others.
 
 ```r
 > str(CO2)
- Classes ‘nfnGroupedData’, ‘nfGroupedData’, ‘groupedData’ and 'data.frame':        84 obs. of  5 variables:
+ Classes ‘nfnGroupedData’, ‘nfGroupedData’, ‘groupedData’ and 'data.frame': 84 obs. of  5 variables:
  $ Plant    : Ord.factor w/ 12 levels "Qn1"<"Qn2"<"Qn3"<..: 1 1 1 1 1 1 1 2 2 2 ...
  $ Type     : Factor w/ 2 levels "Quebec","Mississippi": 1 1 1 1 1 1 1 1 1 1 ...
  $ Treatment: Factor w/ 2 levels "nonchilled","chilled": 1 1 1 1 1 1 1 1 1 1 ...
@@ -102,8 +102,9 @@ The [Kruskal–Wallis test](https://en.wikipedia.org/wiki/Kruskal%E2%80%93Wallis
  Kruskal-Wallis chi-squared = 29.491, df = 1, p-value = 5.617e-08
 ```
 
-P-value is 5.617e-08. 
-It means that 'carbon dioxide uptake rates' have different distribution between Quebec and Mississippi.
+P-value is **5.617e-08**
+
+It means that `carbon dioxide uptake rates` have different distribution between Quebec and Mississippi.
 
 
 
