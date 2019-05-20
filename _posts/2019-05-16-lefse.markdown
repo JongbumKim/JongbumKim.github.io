@@ -37,7 +37,10 @@ For example, in the case of gut microbiota, due to the wide diversity of microbi
   <img src="/assets/lefse/hypothesis_testing_procedures.png" title="Hypothesis Testing Procedures">
 </a>
 
-**Now, Let's get start LEfSe analysis!**
+
+--------------Now, Let's get start LEfSe analysis!-----------------
+
+
 --------------------------------
 ## Normality test
 First of all, we are able to confirm whether data shows normality or not throughout *Shapiro-Wilk* test.
