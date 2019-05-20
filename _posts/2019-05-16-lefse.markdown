@@ -104,7 +104,7 @@ The [Kruskal–Wallis test](https://en.wikipedia.org/wiki/Kruskal%E2%80%93Wallis
 
 P-value is **5.617e-08**
 
-It means that `carbon dioxide uptake rates` have different distribution between Quebec and Mississippi.
+It means that `carbon dioxide uptake rates` have different distribution between Québec and Mississippi.
 
 
 
