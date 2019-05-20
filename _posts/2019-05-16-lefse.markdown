@@ -37,10 +37,6 @@ For example, in the case of gut microbiota, due to the wide diversity of microbi
   <img src="/assets/lefse/hypothesis_testing_procedures.png" title="Hypothesis Testing Procedures">
 </a>
 
-
---------------Now, Let's get start LEfSe analysis!-----------------
-
-
 --------------------------------
 ## Normality test
 First of all, we are able to confirm whether data shows normality or not throughout *Shapiro-Wilk* test.
@@ -50,9 +46,9 @@ The null-hypothesis of this test is that the population is normally distributed.
 
 
 ```r
-library(dplyr)
-library(MASS)
-library(ggplot2)
+> library(dplyr)
+> library(MASS)
+> library(ggplot2)
 
 # test dataset : CO2
 # The CO2 data frame from an experiment on the cold tolerance of the grass species Echinochloa crus-galli.
@@ -61,18 +57,18 @@ library(ggplot2)
 
 
 #shapiro test
-summarise(group_by(CO2, Type), shapiro.pval=shapiro.test(uptake)$p.value)
+> summarise(group_by(CO2, Type), shapiro.pval=shapiro.test(uptake)$p.value)
+# A tibble: 2 x 2
+  Type        shapiro.pval
+  <fct>              <dbl>
+1 Quebec          0.000111
+2 Mississippi     0.0213  
 
-## A tibble: 2 x 2
-##  Type        shapiro.pval
-##  <fct>              <dbl>
-## 1 Quebec          0.000111
-## 2 Mississippi     0.0213  
 
-ggplot(data=CO2, aes(x=uptake, fill=Type)) +
- geom_histogram(bins=10, alpha=0.5) +
- theme_bw() +
- facet_wrap(.~Type)
+> ggplot(data=CO2, aes(x=uptake, fill=Type)) +
+  geom_histogram(bins=10, alpha=0.5) +
+  theme_bw() +
+  facet_wrap(.~Type)
 ```
 
 
@@ -85,4 +81,29 @@ ggplot(data=CO2, aes(x=uptake, fill=Type)) +
 If data does not show normality, mean value cannot be used for comparing two or more groups.
 
 The [Kruskal–Wallis test](https://en.wikipedia.org/wiki/Kruskal%E2%80%93Wallis_one-way_analysis_of_variance) by ranks, Kruskal–Wallis H test (named after William Kruskal and W. Allen Wallis), or one-way ANOVA on ranks is a non-parametric method for testing whether samples originate from the same distribution. It is used for comparing two or more independent samples of equal or different sample sizes. It extends the Mann–Whitney U test, which is used for comparing only two groups. The parametric equivalent of the Kruskal–Wallis test is the one-way analysis of variance (ANOVA).
+
+-Null hypothesis: Null hypothesis assumes that the samples (groups) are from identical populations.
+-Alternative hypothesis: Alternative hypothesis assumes that at least one of the samples (groups) comes from a different population than the others.
+
+```r
+> str(CO2)
+ Classes ‘nfnGroupedData’, ‘nfGroupedData’, ‘groupedData’ and 'data.frame':        84 obs. of  5 variables:
+ $ Plant    : Ord.factor w/ 12 levels "Qn1"<"Qn2"<"Qn3"<..: 1 1 1 1 1 1 1 2 2 2 ...
+ $ Type     : Factor w/ 2 levels "Quebec","Mississippi": 1 1 1 1 1 1 1 1 1 1 ...
+ $ Treatment: Factor w/ 2 levels "nonchilled","chilled": 1 1 1 1 1 1 1 1 1 1 ...
+ $ conc     : num  95 175 250 350 500 675 1000 95 175 250 ...
+ $ uptake   : num  16 30.4 34.8 37.2 35.3 39.2 39.7 13.6 27.3 37.1 ...
+
+> kruskal.test(uptake ~ Type, data = CO2)
+
+        Kruskal-Wallis rank sum test
+
+ data:  uptake by Type
+ Kruskal-Wallis chi-squared = 29.491, df = 1, p-value = 5.617e-08
+```
+
+P-value is 5.617e-08. 
+It means that 'carbon dioxide uptake rates' have different distribution between Quebec and Mississippi.
+
+
 
