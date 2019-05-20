@@ -91,9 +91,11 @@ The distribution of the Kruskal-Wallis test statistic approximates a chi-sq
 <a href="/assets/lefse/kw_equation.gif" data-title="kruskal wallis">
   <img src="/assets/lefse/kw_equation.gif" title="kruskal wallis">
 </a>
-`* n = sum of sample sizes in all groups`
-`* K = Number of samples`
-`* R = Sum of ranks in the i'th group`
+* `n = sum of sample sizes in all groups`
+
+* `K = Number of samples`
+
+* `R = Sum of ranks in the i'th group`
 
 ```r
 > str(CO2)
