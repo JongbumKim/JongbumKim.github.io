@@ -30,6 +30,14 @@ For example, in the case of gut microbiota, due to the wide diversity of microbi
 </a>
 
 --------------------------------
+## Hypothesis testing procedures
+ Hypothesis testing is a statistical method that is used in making statistical decisions using experimental data.
+ The following procedure shows that how we test experiments with statistical method according to sample charateristics.
+<a href="/assets/lefse/hypothesis_testing_procedures.png" data-lightbox="falcon9-large" data-title="hypothesis testing procedures">
+  <img src="/assets/lefse/hypothesis_testing_procedures.png" title="Hypothesis Testing Procedures">
+</a>
+
+--------------------------------
 ## Normality test
 
 #### Shapiro-Wilk test
