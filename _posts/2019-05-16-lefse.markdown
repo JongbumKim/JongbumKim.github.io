@@ -89,7 +89,7 @@ The [Kruskal–Wallis test](https://en.wikipedia.org/wiki/Kruskal%E2%80%93Wallis
 
 The distribution of the Kruskal-Wallis test statistic approximates a chi-square distribution, with k-1 degrees of freedom.
 
-<center><img src="/assets/lefse/kw_equation.gif" width="0.5%" height="0.5%"></center>
+<center><img src="/assets/lefse/kw_equation.gif" width="100" height="25"></center>
 
 * `n = sum of sample sizes in all groups`
 
