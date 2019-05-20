@@ -85,6 +85,16 @@ The [Kruskal–Wallis test](https://en.wikipedia.org/wiki/Kruskal%E2%80%93Wallis
 * Null hypothesis: Null hypothesis assumes that the samples (groups) are from identical populations.
 * Alternative hypothesis: Alternative hypothesis assumes that at least one of the samples (groups) comes from a different population than the others.
 
+###### Equation
+
+The distribution of the Kruskal-Wallis test statistic approximates a chi-square distribution, with k-1 degrees of freedom
+<a href="/assets/lefse/kw_equation.gif" data-title="kruskal wallis">
+  <img src="/assets/lefse/kw_equation.gif" title="kruskal wallis">
+</a>
+`* n = sum of sample sizes in all groups`
+`* K = Number of samples`
+`* R = Sum of ranks in the i'th group`
+
 ```r
 > str(CO2)
  Classes ‘nfnGroupedData’, ‘nfGroupedData’, ‘groupedData’ and 'data.frame': 84 obs. of  5 variables:
