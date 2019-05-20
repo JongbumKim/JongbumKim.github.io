@@ -37,29 +37,50 @@ For example, in the case of gut microbiota, due to the wide diversity of microbi
   <img src="/assets/lefse/hypothesis_testing_procedures.png" title="Hypothesis Testing Procedures">
 </a>
 
+**Now, Let's get start LEfSe analysis!**
 --------------------------------
 ## Normality test
+First of all, we are able to confirm whether data shows normality or not throughout *Shapiro-Wilk* test.
 
 #### Shapiro-Wilk test
 The null-hypothesis of this test is that the population is normally distributed.
 
 
 ```r
-# normally distributed 
-normality.d <- rnorm(1000)
+library(dplyr)
+library(MASS)
+library(ggplot2)
 
-# non-normally distributed
-non.normality.d <- rgeom(1000, 0.5)
+# test dataset : CO2
+# The CO2 data frame from an experiment on the cold tolerance of the grass species Echinochloa crus-galli.
+# Type : a factor with levels Quebec Mississippi giving the origin of the plant
+# uptake : a numeric vector of carbon dioxide uptake rates (umol/m^2 sec).
 
-# plotting
-par(mfrow=c(1,2))
-hist(normality.d)
-hist(non.normality.d)
+
+#shapiro test
+summarise(group_by(CO2, Type), shapiro.pval=shapiro.test(uptake)$p.value)
+
+## A tibble: 2 x 2
+##  Type        shapiro.pval
+##  <fct>              <dbl>
+## 1 Quebec          0.000111
+## 2 Mississippi     0.0213  
+
+ggplot(data=CO2, aes(x=uptake, fill=Type)) +
+ geom_histogram(bins=10, alpha=0.5) +
+ theme_bw() +
+ facet_wrap(.~Type)
 ```
 
 
-<a href="/assets/lefse/shapiro_wilk_test.png" data-title="shapiro-wilk test">
-  <img src="/assets/lefse/shapiro_wilk_test.png" title="shapiro-wilk test">
+<a href="/assets/lefse/normality.png" data-title="shapiro-wilk test">
+  <img src="/assets/lefse/normality.png" title="shapiro-wilk test">
 </a>
 
 --------------------------------
+## Kruskal Wallis test
+If data does not show normality, mean value cannot be used for comparing two or more groups.
+
+The *Kruskal–Wallis test* by ranks, Kruskal–Wallis H test (named after William Kruskal and W. Allen Wallis), or one-way ANOVA on ranks is a non-parametric method for testing whether samples originate from the same distribution. It is used for comparing two or more independent samples of equal or different sample sizes. It extends the Mann–Whitney U test, which is used for comparing only two groups. The parametric equivalent of the Kruskal–Wallis test is the one-way analysis of variance (ANOVA). [from wiki]
+[from wiki]:https://en.wikipedia.org/wiki/Kruskal%E2%80%93Wallis_one-way_analysis_of_variance
+
