@@ -5,6 +5,7 @@ author: JB
 date:   2019-05-21
 categories: Daily Words
 tags:	
+permalink: "/ielts/"
 cover:  "/assets/instacode.png"
 ---
 
