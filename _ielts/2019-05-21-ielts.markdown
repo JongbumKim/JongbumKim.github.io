@@ -1,0 +1,49 @@
+---
+layout: ielts
+title:  "Today's words"
+author: JB
+date:   2019-05-21
+categories: Daily Words
+tags:	
+cover:  "/assets/instacode.png"
+---
+
+abet >! v. (나쁜 일을) 사주하다, 교사하다
+
+skew >! v. 왜곡하다, 비스듬히 움직이다
+
+craze >! n. 대유행
+
+primary >! adj. 첫째의, 주요한, 초기의
+
+exclaim >! v. 외치다, 소리치다
+
+feminine >! adj. 여자의, 여성의, 여성다운
+
+adoptive >! adj. 입양으로 맺어진
+
+deceive >! v. 속이다, 기만하다
+
+scoop >! n. 국자, 큰 숟가락
+
+notify >! v. 통지하다, 신고하다 
+
+egalitarian >! n. 평등주의자
+
+debtor >! n. 채무자, 차주
+
+lurk >! v. 숨어 있다, 잠복하다
+
+friction >! n. 마찰, 충돌, 불화
+
+incentive >! n. 장려책, 우대책
+
+duplicate >! adj. 중복의, 이중의, 복제의
+
+pull >! v. 끌다, 당기다, 끌어당기다
+
+orthopedic >! adj. 정형외과의
+
+designate >! v. 명시하다, 가리키다, 지명하다
+
+shutter >! n. 덧문, 겉문, 뚜껑
