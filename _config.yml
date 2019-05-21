@@ -8,9 +8,6 @@ gems:
 exclude:
   - "/vendor/"
 
-include:
-  - "/ielts/"
-
 # Site settings
 title: Incomplete life
 subtitle: "No man is born wise"
