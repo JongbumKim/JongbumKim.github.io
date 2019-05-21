@@ -7,7 +7,9 @@ gems:
 
 exclude:
   - "/vendor/"
-include: ['_ielts']
+  
+include:
+  - '_ielts'
 # Site settings
 title: Incomplete life
 subtitle: "No man is born wise"
