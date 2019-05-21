@@ -1,5 +1,5 @@
 ---
-layout: ielts
+layout: post
 title:  "Today's words"
 author: JB
 date:   2019-05-21
