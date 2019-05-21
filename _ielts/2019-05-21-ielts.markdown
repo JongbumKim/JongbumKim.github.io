@@ -5,11 +5,10 @@ author: JB
 date:   2019-05-21
 categories: Daily Words
 tags:	
-permalink: "/ielts/"
 cover:  "/assets/instacode.png"
 ---
 
-abet >! v. (나쁜 일을) 사주하다, 교사하다
+abet >!v. (나쁜 일을) 사주하다, 교사하다
 
 skew >! v. 왜곡하다, 비스듬히 움직이다
 
