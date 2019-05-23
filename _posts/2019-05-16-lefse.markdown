@@ -5,6 +5,7 @@ author: JB
 date:   2019-05-16
 categories: Statistics
 tags:	Amplicon Metagenome LEfSe LDA
+description: LDA Effect Size (LEfSe) (Segata et. al 2010) is An algorithm for High-Dimensional biomarker discovery and explanation that identifies genomic features (genes, pathways, or taxa) characterizing the differences between two or more biological conditions (or classes).
 cover:  "/assets/instacode.png"
 ---
 
