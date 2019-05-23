@@ -8,7 +8,11 @@ tags:
 cover:  "/assets/instacode.png"
 ---
 
-abet >!v. (나쁜 일을) 사주하다, 교사하다
+<details>
+  <summary>abet</summary>
+  v. (나쁜 일을) 사주하다, 교사하다
+</details>
+ 
 
 skew >! v. 왜곡하다, 비스듬히 움직이다
 
