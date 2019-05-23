@@ -3,7 +3,7 @@ layout: post
 title:  "Today's words"
 author: JB
 date:   2019-05-21
-categories: Daily Words
+categories: Daily_Words
 tags:	
 cover:  "/assets/instacode.png"
 ---
