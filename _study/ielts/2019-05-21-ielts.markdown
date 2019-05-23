@@ -6,6 +6,7 @@ date:   2019-05-21
 categories: Daily Words
 tags:	
 cover:  "/assets/instacode.png"
+order: 1
 ---
 
 abet >!v. (나쁜 일을) 사주하다, 교사하다
