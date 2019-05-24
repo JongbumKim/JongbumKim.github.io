@@ -1,7 +1,9 @@
 ---
 layout: post
-author: Jongbum Kim
-date: 2019-05-24
+title:  "Today's words"
+author: JB
+date:   2019-05-24
+categories: Daily_Words
 ---
 
 
