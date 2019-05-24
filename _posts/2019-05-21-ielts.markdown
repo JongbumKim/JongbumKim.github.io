@@ -13,41 +13,97 @@ cover:  "/assets/instacode.png"
   v. (나쁜 일을) 사주하다, 교사하다
 </details>
  
+<details>
+   <summary>skew</summary>
+   v. 왜곡하다, 비스듬히 움직이다
+</details>
 
-skew >! v. 왜곡하다, 비스듬히 움직이다
+<details>
+   <summary>craze</summary>
+   n. 대유행
+</details>
 
-craze >! n. 대유행
+<details>
+   <summary>primary</summary>
+   adj. 첫째의, 주요한, 초기의
+</details>
 
-primary >! adj. 첫째의, 주요한, 초기의
+<details>
+   <summary>exclaim</summary>
+   v. 외치다, 소리치다
+</details>
 
-exclaim >! v. 외치다, 소리치다
+<details>
+   <summary>feminine</summary>
+   adj. 여자의, 여성의, 여성다운
+</details>
 
-feminine >! adj. 여자의, 여성의, 여성다운
+<details>
+   <summary>adoptive</summary>
+   adj. 입양으로 맺어진
+</details>
 
-adoptive >! adj. 입양으로 맺어진
+<details>
+   <summary>deceive</summary>
+   v. 속이다, 기만하다
+</details>
 
-deceive >! v. 속이다, 기만하다
+<details>
+   <summary>scoop</summary>
+   n. 국자, 큰 숟가락
+</details>
 
-scoop >! n. 국자, 큰 숟가락
+<details>
+   <summary>notify</summary>
+   v. 통지하다, 신고하다
+</details>
 
-notify >! v. 통지하다, 신고하다 
+<details>
+   <summary>egalitarian</summary>
+   n. 평등주의자
+</details>
 
-egalitarian >! n. 평등주의자
+<details>
+   <summary>debtor</summary>
+   n. 채무자, 차주
+</details>
 
-debtor >! n. 채무자, 차주
+<details>
+   <summary>lurk</summary>
+   v. 숨어 있다, 잠복하다
+</details>
 
-lurk >! v. 숨어 있다, 잠복하다
+<details>
+   <summary>friction</summary>
+   n. 마찰, 충돌, 불화
+</details>
 
-friction >! n. 마찰, 충돌, 불화
+<details>
+   <summary>incentive</summary>
+   n. 장려책, 우대책
+</details>
 
-incentive >! n. 장려책, 우대책
+<details>
+   <summary>duplicate</summary>
+   adj. 중복의, 이중의, 복제의
+</details>
 
-duplicate >! adj. 중복의, 이중의, 복제의
+<details>
+   <summary>pull</summary>
+   v. 끌다, 당기다, 끌어당기다
+</details>
 
-pull >! v. 끌다, 당기다, 끌어당기다
+<details>
+   <summary>orthopedic</summary>
+   adj. 정형외과의
+</details>
 
-orthopedic >! adj. 정형외과의
+<details>
+   <summary>designate</summary>
+   v. 명시하다, 가리키다, 지명하다
+</details>
 
-designate >! v. 명시하다, 가리키다, 지명하다
-
-shutter >! n. 덧문, 겉문, 뚜껑
+<details>
+   <summary>shutter</summary>
+   n. 덧문, 겉문, 뚜껑
+</details>
