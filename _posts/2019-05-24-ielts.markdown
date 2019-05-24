@@ -106,3 +106,105 @@ categories: Daily_Words
    <summary>barrier </summary>
    n. 방벽, 방책, 관문
 </details>
+
+-------------------------------------------------------------
+
+<details>
+   <summary>adj. 적절한, 적당한</summary>
+   apt
+</details>
+
+<details>
+   <summary>adj. 장례의; n. 장례식</summary>
+   funeral
+</details>
+
+<details>
+   <summary>v. 주기 싫어하다, 인색하게 굴다</summary>
+   grudge
+</details>
+
+<details>
+   <summary>n. 책임, 의무</summary>
+   onus
+</details>
+
+<details>
+   <summary>v. (액체나 가스를) 찍 짜다, 내뿜다</summary>
+   squirt
+</details>
+
+<details>
+   <summary>n. 통신원, 특파원</summary>
+   correspondent
+</details>
+
+<details>
+   <summary>n. 괴짜, 기이한 일</summary>
+   freak
+</details>
+
+<details>
+   <summary>adj. 최소의, 극소의</summary>
+   minimal
+</details>
+
+<details>
+   <summary>n. 헝겊 조각, 천 조각</summary>
+   patch
+</details>
+
+<details>
+   <summary>n. 회전목마</summary>
+   carousel
+</details>
+
+<details>
+   <summary>adv. 도처에, 온통, 완전히</summary>
+   throughout
+</details>
+
+<details>
+   <summary>v. 갈채하다, 환호하다</summary>
+   acclaim
+</details>
+
+<details>
+   <summary>v. 두근거리다, 고동치다</summary>
+   palpitate
+</details>
+
+<details>
+   <summary>adj. 제한된, 한정된, 유한의</summary>
+   finite
+</details>
+
+<details>
+   <summary>v. 천을 씌우다</summary>
+   upholster
+</details>
+
+<details>
+   <summary>v. 짓밟다, 밟아 뭉개다 </summary>
+   trample
+</details>
+
+<details>
+   <summary>v. 생각해 내다, 회상하다</summary>
+   recollect
+</details>
+
+<details>
+   <summary>n. 국경, 한계, 변경</summary>
+   frontier
+</details>
+
+<details>
+   <summary>adj. 미끄러운</summary>
+   slippery
+</details>
+
+<details>
+   <summary>n. 방벽, 방책, 관문</summary>
+   barrier 
+</details>
