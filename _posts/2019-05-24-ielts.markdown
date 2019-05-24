@@ -1,0 +1,106 @@
+---
+layout: post
+author: Jongbum Kim
+date: 2019-05-24
+---
+
+
+<details>
+   <summary>apt</summary>
+   adj. 적절한, 적당한
+</details>
+
+<details>
+   <summary>funeral</summary>
+   adj. 장례의; n. 장례식
+</details>
+
+<details>
+   <summary>grudge</summary>
+   v. 주기 싫어하다, 인색하게 굴다
+</details>
+
+<details>
+   <summary>onus</summary>
+   n. 책임, 의무
+</details>
+
+<details>
+   <summary>squirt</summary>
+   v. (액체나 가스를) 찍 짜다, 내뿜다
+</details>
+
+<details>
+   <summary>correspondent</summary>
+   n. 통신원, 특파원
+</details>
+
+<details>
+   <summary>freak</summary>
+   n. 괴짜, 기이한 일
+</details>
+
+<details>
+   <summary>minimal</summary>
+   adj. 최소의, 극소의
+</details>
+
+<details>
+   <summary>patch</summary>
+   n. 헝겊 조각, 천 조각
+</details>
+
+<details>
+   <summary>carousel</summary>
+   n. 회전목마
+</details>
+
+<details>
+   <summary>throughout</summary>
+   adv. 도처에, 온통, 완전히
+</details>
+
+<details>
+   <summary>acclaim</summary>
+   v. 갈채하다, 환호하다
+</details>
+
+<details>
+   <summary>palpitate</summary>
+   v. 두근거리다, 고동치다
+</details>
+
+<details>
+   <summary>finite</summary>
+   adj. 제한된, 한정된, 유한의
+</details>
+
+<details>
+   <summary>upholster</summary>
+   v. 천을 씌우다
+</details>
+
+<details>
+   <summary>trample</summary>
+   v. 짓밟다, 밟아 뭉개다 
+</details>
+
+<details>
+   <summary>recollect</summary>
+   v. 생각해 내다, 회상하다
+</details>
+
+<details>
+   <summary>frontier</summary>
+   n. 국경, 한계, 변경
+</details>
+
+<details>
+   <summary>slippery</summary>
+   adj. 미끄러운
+</details>
+
+<details>
+   <summary>barrier </summary>
+   n. 방벽, 방책, 관문
+</details>
