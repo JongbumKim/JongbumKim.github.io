@@ -1,0 +1,1 @@
+awk -F "\t" '{print "<details>"; print "   <summary>"$1"</summary>"; print "   "$2; print "</details>"; print ""}'
