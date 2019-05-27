@@ -5,3 +5,204 @@ author: JB
 date:   2019-05-27
 categories: Daily_Words
 ---
+
+<details>
+   <summary>brittle</summary>
+   adj. 부서지기 쉬운
+</details>
+
+<details>
+   <summary>digestion</summary>
+   n. 소화, 소화력
+</details>
+
+<details>
+   <summary>geometry</summary>
+   n. 기하학
+</details>
+
+<details>
+   <summary>respiration</summary>
+   n. 호흡
+</details>
+
+<details>
+   <summary>drowsy</summary>
+   adj. 졸리는, 나른하게 만드는
+</details>
+
+<details>
+   <summary>pungent</summary>
+   adj. 톡 쏘는, 찌르는, 얼얼한
+</details>
+
+<details>
+   <summary>recital</summary>
+   n. 발표회, 연주회
+</details>
+
+<details>
+   <summary>dormant</summary>
+   adj. 휴면기의, 수면 상태의
+</details>
+
+<details>
+   <summary>apiece</summary>
+   adv. 하나에 대하여
+</details>
+
+<details>
+   <summary>commonplace</summary>
+   n. 평범한 일, 흔한 일
+</details>
+
+<details>
+   <summary>overthrow</summary>
+   v. 뒤엎다, 끌어내리다, 정복하다
+</details>
+
+<details>
+   <summary>explosion</summary>
+   n. 폭발, 파열, 격발
+</details>
+
+<details>
+   <summary>erratic</summary>
+   adj. 산만한, 변덕스러운, 엉뚱한
+</details>
+
+<details>
+   <summary>arbitrary</summary>
+   adj. 임의의, 멋대로인, 독단적인
+</details>
+
+<details>
+   <summary>standard</summary>
+   n. 표준, 기준, 규격
+</details>
+
+<details>
+   <summary>inhibit</summary>
+   v. 억제하다, 제지하다
+</details>
+
+<details>
+   <summary>comparison</summary>
+   n. 비교, 대조, 필적
+</details>
+
+<details>
+   <summary>topmost</summary>
+   adj. 최고의, 최상의
+</details>
+
+<details>
+   <summary>granular</summary>
+   adj. 낟알의, 낟알 모양의
+</details>
+
+<details>
+   <summary>meddle</summary>
+   v. 간섭하다, 관여하다 
+</details>
+--------------------------------------------------------
+
+<details>
+   <summary>adj. 부서지기 쉬운</summary>
+   brittle
+</details>
+
+<details>
+   <summary>n. 소화, 소화력</summary>
+   digestion
+</details>
+
+<details>
+   <summary>n. 기하학</summary>
+   geometry
+</details>
+
+<details>
+   <summary>n. 호흡</summary>
+   respiration
+</details>
+
+<details>
+   <summary>adj. 졸리는, 나른하게 만드는</summary>
+   drowsy
+</details>
+
+<details>
+   <summary>adj. 톡 쏘는, 찌르는, 얼얼한</summary>
+   pungent
+</details>
+
+<details>
+   <summary>n. 발표회, 연주회</summary>
+   recital
+</details>
+
+<details>
+   <summary>adj. 휴면기의, 수면 상태의</summary>
+   dormant
+</details>
+
+<details>
+   <summary>adv. 하나에 대하여</summary>
+   apiece
+</details>
+
+<details>
+   <summary>n. 평범한 일, 흔한 일</summary>
+   commonplace
+</details>
+
+<details>
+   <summary>v. 뒤엎다, 끌어내리다, 정복하다</summary>
+   overthrow
+</details>
+
+<details>
+   <summary>n. 폭발, 파열, 격발</summary>
+   explosion
+</details>
+
+<details>
+   <summary>adj. 산만한, 변덕스러운, 엉뚱한</summary>
+   erratic
+</details>
+
+<details>
+   <summary>adj. 임의의, 멋대로인, 독단적인</summary>
+   arbitrary
+</details>
+
+<details>
+   <summary>n. 표준, 기준, 규격</summary>
+   standard
+</details>
+
+<details>
+   <summary>v. 억제하다, 제지하다</summary>
+   inhibit
+</details>
+
+<details>
+   <summary>n. 비교, 대조, 필적</summary>
+   comparison
+</details>
+
+<details>
+   <summary>adj. 최고의, 최상의</summary>
+   topmost
+</details>
+
+<details>
+   <summary>adj. 낟알의, 낟알 모양의</summary>
+   granular
+</details>
+
+<details>
+   <summary>v. 간섭하다, 관여하다 </summary>
+   meddle
+</details>
