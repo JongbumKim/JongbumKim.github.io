@@ -3,7 +3,7 @@ layout: post
 title:  "DAILY TEST (Writing)"
 author: JB
 date:   2019-05-27
-categories: Daily_Words
+categories: Writing_증가_하락_변동표현
 ---
 
 <details>
