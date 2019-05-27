@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "DAILY TEST (Writing)"
+title:  "Writing [DAILY TEST] : 증가, 하락, 변동 표현"
 author: JB
 date:   2019-05-27
-categories: Writing_증가_하락_변동표현
+categories: 
 ---
 
 <details>
