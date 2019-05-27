@@ -1,0 +1,86 @@
+---
+layout: post
+title:  "DAILY TEST (Writing)"
+author: JB
+date:   2019-05-27
+categories: Daily_Words
+---
+
+<details>
+   <summary>01. 수익은 눈에 띄게 떨어졌다 / 서비스 산업 전반에 걸쳐 / 유럽(Europe) 에서</summary>
+   Profits dipped notably across the hospitality industry in Europe.
+</details>
+
+<details>
+    <summary>02. 석유 가격은 여러 차례 오르내렸다 / 10년 동안</summary>
+    Oil prices went up and down several times over the decade.
+</details>
+
+<details>
+    <summary>03. 대학 졸업률은 / 서서히 감소했다 / 매년</summary>
+    The colleage graduation rate declined slowly each year.
+</details>
+
+<details>
+    <summary>04. 주택에 대한 소비자 지출은 / 빠르게 증가했다. / 비록 그것이 떨어졌지만 / 2002년에</summary>
+    Consumer expenditure on housing rose rapidly, although it dipped in 2002.
+</details>
+
+<details>
+    <summary>05. 지원자의 비율에 증가가 있었다 / 주어진 기간의 마지막에</summary>
+    There was a rise in the proportion of applicants at the end of the given period.
+</details>
+
+<details>
+    <summary>06. 자동차의 수는 / 일본에서 생산된 / 6천만 (60 million)으로 정점에 도달했다 / 2010년에</summary>
+    The number of cars manufactured in Japan peaked at 60 million in 2010.
+</details>
+
+<details>
+    <summary>07. 교사들의 급여는 계속해서 변했다 / 남부 주 전역에 걸쳐 / 2015년에</summary>
+    Teacher's salaries varied continuously across the southern states in 2015.
+</details>
+    
+<details>
+    <summary>08. 소비자의 불만은 상당히 증가했다 / 시간이 지남에 따라, / 나이에 상관없이</summary>
+    Consumers dissatisfaction grew significantly as time passed, regardless of age.
+</details>
+
+<details>
+    <summary>09. 남자들의 비율은 / 교육계에서 일하는 / 상당히 하락했다 / 2004년 이후에</summary>
+    The percentage of men working in education fell considerably after 2004.
+</details>
+
+<details>
+    <summary>10. 육류 소비량은 급격히 치솟았다 / 전년도와 비교하여</summary>
+    Meat consumption soared sharply compared to the previous year.
+</details>
+
+<details>
+    <summary>11. 그래프는 상승 추세를 보인다 / 직업을 바꾸는 임원들의 수에 있어서</summary>
+    The graph shows an upward trend in the number of executives changing jobs.
+</details>
+
+<details>
+    <summary>12. 호텔 객실은 200파운드에서 75파운드로 감소된다 / 1박에 / 비수기 동안</summary>
+    Hotel rooms are reduced from 200 pounds to 75 pounds per night during the low season.
+</details>
+
+<details>
+    <summary>13. 승객 수치는 / 버스를 타는 / 빠르게 하락했다</summary>
+    The passenger figures taking the bus dropped rapidly.
+</details>
+
+<details>
+    <summary>14. 인도(India)의 식자율(literacy rates)은 계속해서 증가했다 / 1950년과 1980년 사이에</summary>
+    Literacy rates in India went up continually between 1950 and 1980.
+</details>
+
+<details>
+    <summary>15. 박물관 방문자들의 수는 상당히 감소했다 / 그 두 연도 사이에</summary>
+    The number of museum visitors decreased substrantially between the two years.
+</details>
+
+    
+    
+
