@@ -93,6 +93,6 @@ categories: "IELTS_Writing"
 
 <details>
     <summary>15. 박물관 방문자들의 수는 상당히 감소했다 / 그 두 연도 사이에</summary>
-    The number of museum visitors decreased substrantially between the two years.
+    The number of museum visitors decreased substantially between the two years.
 </details>
 <input type="text" id="name" name="name"/>
