@@ -6,4 +6,204 @@ date:   2019-05-28
 categories: Daily_Words
 ---
 
-<input type="text" id="name" name="name"/>
+<details>
+   <summary>linear</summary>
+   adj. 선의, 직선의, 선 모양의
+</details>
+
+<details>
+   <summary>anecdote</summary>
+   n. 일화, 기담, 기문
+</details>
+
+<details>
+   <summary>selective</summary>
+   adj. 선택하는, 정선하는
+</details>
+
+<details>
+   <summary>slice</summary>
+   n. 얇게 썬 조각, 한 조각
+</details>
+
+<details>
+   <summary>access</summary>
+   n. 접근, 면회, 출입
+</details>
+
+<details>
+   <summary>dean</summary>
+   n. 수석 사제, 학장
+</details>
+
+<details>
+   <summary>parachute</summary>
+   n. 낙하산
+</details>
+
+<details>
+   <summary>grind</summary>
+   v. 갈다, 빻다
+</details>
+
+<details>
+   <summary>lull</summary>
+   v. 달래다, 어르다
+</details>
+
+<details>
+   <summary>peril</summary>
+   n. 위험, 위태
+</details>
+
+<details>
+   <summary>accomplish</summary>
+   v. 이루다, 성취하다, 완수하다
+</details>
+
+<details>
+   <summary>persist</summary>
+   v. 고집하다, 우기다, 주장하다 
+</details>
+
+<details>
+   <summary>decrepit</summary>
+   adj. 노쇠한, 노후한
+</details>
+
+<details>
+   <summary>unduly</summary>
+   adv. 과도하게, 심하게, 부당하게
+</details>
+
+<details>
+   <summary>barren</summary>
+   adj. 불모의, 메마른
+</details>
+
+<details>
+   <summary>handsome</summary>
+   adj. 잘생긴, 멋진
+</details>
+
+<details>
+   <summary>paraphrase</summary>
+   v. 바꾸어 쓰다, 의역하다
+</details>
+
+<details>
+   <summary>correspond</summary>
+   v. 일치하다, 부합하다, 조화하다
+</details>
+
+<details>
+   <summary>layoff</summary>
+   n. 강제 휴직, 일시 해고
+</details>
+
+<details>
+   <summary>tinker</summary>
+   n. 땜장이, 서투른 장인
+</details>
+
+------------------------------
+
+<details>
+   <summary>adj. 선의, 직선의, 선 모양의</summary>
+   linear
+</details>
+
+<details>
+   <summary>n. 일화, 기담, 기문</summary>
+   anecdote
+</details>
+
+<details>
+   <summary>adj. 선택하는, 정선하는</summary>
+   selective
+</details>
+
+<details>
+   <summary>n. 얇게 썬 조각, 한 조각</summary>
+   slice
+</details>
+
+<details>
+   <summary>n. 접근, 면회, 출입</summary>
+   access
+</details>
+
+<details>
+   <summary>n. 수석 사제, 학장</summary>
+   dean
+</details>
+
+<details>
+   <summary>n. 낙하산</summary>
+   parachute
+</details>
+
+<details>
+   <summary>v. 갈다, 빻다</summary>
+   grind
+</details>
+
+<details>
+   <summary>v. 달래다, 어르다</summary>
+   lull
+</details>
+
+<details>
+   <summary>n. 위험, 위태</summary>
+   peril
+</details>
+
+<details>
+   <summary>v. 이루다, 성취하다, 완수하다</summary>
+   accomplish
+</details>
+
+<details>
+   <summary>v. 고집하다, 우기다, 주장하다 </summary>
+   persist
+</details>
+
+<details>
+   <summary>adj. 노쇠한, 노후한</summary>
+   decrepit
+</details>
+
+<details>
+   <summary>adv. 과도하게, 심하게, 부당하게</summary>
+   unduly
+</details>
+
+<details>
+   <summary>adj. 불모의, 메마른</summary>
+   barren
+</details>
+
+<details>
+   <summary>adj. 잘생긴, 멋진</summary>
+   handsome
+</details>
+
+<details>
+   <summary>v. 바꾸어 쓰다, 의역하다</summary>
+   paraphrase
+</details>
+
+<details>
+   <summary>v. 일치하다, 부합하다, 조화하다</summary>
+   correspond
+</details>
+
+<details>
+   <summary>n. 강제 휴직, 일시 해고</summary>
+   layoff
+</details>
+
+<details>
+   <summary>n. 땜장이, 서투른 장인</summary>
+   tinker
+</details>
