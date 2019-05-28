@@ -7,11 +7,11 @@ categories: "IELTS_Writing"
 ---
 
 <details>
-   <summary>01. 수익은 눈에 띄게 떨어졌다 / 서비스 산업 전반에 걸쳐 / 유럽(Europe) 에서
-     
-   <input type="text" id="name" name="name"/></summary>
+   <summary>01. 수익은 눈에 띄게 떨어졌다 / 서비스 산업 전반에 걸쳐 / 유럽(Europe) 에서</summary>
    Profits dipped notably across the hospitality industry in Europe.
 </details>
+<input type="text" id="name" name="name"/></summary>
+
 
 <details>
     <summary>02. 석유 가격은 여러 차례 오르내렸다 / 10년 동안</summary>
