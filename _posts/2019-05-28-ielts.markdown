@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Today's words"
+author: JB
+date:   2019-05-28
+categories: Daily_Words
+---
+
+<input type="text" id="name" name="name"/>
