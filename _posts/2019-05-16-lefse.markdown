@@ -127,10 +127,8 @@ It means that `carbon dioxide uptake rates` have different distribution between 
 #### Bonferonni Correction
 <center><a href="/assets/lefse/post_hoc.png" data-title="post hoc">
   <img src="/assets/lefse/post_hoc.png" title="post hoc" width="50%" height="50%">
-</a>
-reference [here](https://dermabae.tistory.com/168)
-</center>
-
+</a></center>
+<center>reference [here](https://dermabae.tistory.com/168)</center>
 
  This multiple-comparison post-hoc correction is used when you are performing many independent or dependent statistical tests at the same time. The problem with running many simultaneous tests is that the probability of a significant result increases with each test run. This post-hoc test sets the significance cut off at α/n. For example, if you are running 20 simultaneous tests at α=0.05, the correction would be 0.0025. More detail. The Bonferroni does suffer from a loss of power. This is due to several reasons, including the fact that Type II error rates are high for each test. In other words, it overcorrects for Type I errors.
 [more information](https://www.statisticshowto.datasciencecentral.com/post-hoc/)
