@@ -76,7 +76,8 @@ The null-hypothesis of this test is that the population is normally distributed.
 <a href="/assets/lefse/normality.png" data-title="shapiro-wilk test">
   <img src="/assets/lefse/normality.png" title="shapiro-wilk test">
 </a>
--------------------------------
+
+-------------------------------------
 ## Analysis steps in LEfSe
 
  There are ***3 steps*** in LEfSe analysis.
