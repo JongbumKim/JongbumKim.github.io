@@ -6,3 +6,206 @@ date:   2019-05-30
 categories: Daily_Words
 ---
 
+<details>
+   <summary>tension</summary>
+   n. 긴장, 불안, 흥분
+</details>
+
+<details>
+   <summary>unilateral</summary>
+   adj. 일방적인, 단독의
+</details>
+
+<details>
+   <summary>inactive</summary>
+   adj. 활동하지 않는, 활발하지 않은
+</details>
+
+<details>
+   <summary>squat</summary>
+   v. 웅크리다, 쪼그리고 앉다
+</details>
+
+<details>
+   <summary>paternity</summary>
+   n. 아버지임, 부성
+</details>
+
+<details>
+   <summary>dangle</summary>
+   v. 매달리다
+</details>
+
+<details>
+   <summary>violent</summary>
+   adj. 격렬한, 맹렬한
+</details>
+
+<details>
+   <summary>gratuity</summary>
+   n. 사례금, 선물
+</details>
+
+<details>
+   <summary>release</summary>
+   v. 석방하다, 놓아주다
+</details>
+
+<details>
+   <summary>refreshment</summary>
+   n. 원기 회복, 기분을 상쾌하게 함
+</details>
+
+<details>
+   <summary>dynamic </summary>
+   adj. 동력의, 동적인
+</details>
+
+<details>
+   <summary>multifarious</summary>
+   adj. 다양한, 다채로운
+</details>
+
+<details>
+   <summary>clumsy</summary>
+   adj. 어설픈, 서투른
+</details>
+
+<details>
+   <summary>superior</summary>
+   adj. 우수한, 고급의, 상질의
+</details>
+
+<details>
+   <summary>float</summary>
+   v. 뜨다, 떠오르다
+</details>
+
+<details>
+   <summary>texture</summary>
+   n. 직물
+</details>
+
+<details>
+   <summary>poke</summary>
+   v. 찌르다, 쑤시다
+</details>
+
+<details>
+   <summary>reimburse</summary>
+   v. 변상하다
+</details>
+
+<details>
+   <summary>virtual</summary>
+   adj. 사실상의, 실질상의
+</details>
+
+<details>
+   <summary>headstrong</summary>
+   adj. 완고한, 고집 센, 억지 쓰는
+</details>
+
+=============================================================
+
+<details>
+   <summary>n. 긴장, 불안, 흥분</summary>
+   tension
+</details>
+
+<details>
+   <summary>adj. 일방적인, 단독의</summary>
+   unilateral
+</details>
+
+<details>
+   <summary>adj. 활동하지 않는, 활발하지 않은</summary>
+   inactive
+</details>
+
+<details>
+   <summary>v. 웅크리다, 쪼그리고 앉다</summary>
+   squat
+</details>
+
+<details>
+   <summary>n. 아버지임, 부성</summary>
+   paternity
+</details>
+
+<details>
+   <summary>v. 매달리다</summary>
+   dangle
+</details>
+
+<details>
+   <summary>adj. 격렬한, 맹렬한</summary>
+   violent
+</details>
+
+<details>
+   <summary>n. 사례금, 선물</summary>
+   gratuity
+</details>
+
+<details>
+   <summary>v. 석방하다, 놓아주다</summary>
+   release
+</details>
+
+<details>
+   <summary>n. 원기 회복, 기분을 상쾌하게 함</summary>
+   refreshment
+</details>
+
+<details>
+   <summary>adj. 동력의, 동적인</summary>
+   dynamic 
+</details>
+
+<details>
+   <summary>adj. 다양한, 다채로운</summary>
+   multifarious
+</details>
+
+<details>
+   <summary>adj. 어설픈, 서투른</summary>
+   clumsy
+</details>
+
+<details>
+   <summary>adj. 우수한, 고급의, 상질의</summary>
+   superior
+</details>
+
+<details>
+   <summary>v. 뜨다, 떠오르다</summary>
+   float
+</details>
+
+<details>
+   <summary>n. 직물</summary>
+   texture
+</details>
+
+<details>
+   <summary>v. 찌르다, 쑤시다</summary>
+   poke
+</details>
+
+<details>
+   <summary>v. 변상하다</summary>
+   reimburse
+</details>
+
+<details>
+   <summary>adj. 사실상의, 실질상의</summary>
+   virtual
+</details>
+
+<details>
+   <summary>adj. 완고한, 고집 센, 억지 쓰는</summary>
+   headstrong
+</details>
+
+
