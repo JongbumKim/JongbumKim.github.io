@@ -76,6 +76,20 @@ The null-hypothesis of this test is that the population is normally distributed.
 <a href="/assets/lefse/normality.png" data-title="shapiro-wilk test">
   <img src="/assets/lefse/normality.png" title="shapiro-wilk test">
 </a>
+-------------------------------
+## Analysis steps in LEfSe
+
+ There are ***3 steps*** in LEfSe analysis.
+<center><a href="/assets/lefse/post_hoc.png" data-title="post hoc">
+  <img src="/assets/lefse/lefse_step.png" title="post hoc" width="50%" height="50%">
+</a></center>
+ 
+1. *Step 1*
+   : **Kruskal-Wallis test** to detect features with significant differential abundance in different groups
+2. *Step 2*
+   : biological consistency is subsequently investigated using a set of pairwise tests among subclasses using the (unpaired) **Wilcoxon rank-sum test**
+3. *Step 3*
+   : **LDA** to estimate the effect size of each differentially abundant feature and, if desired by the investigator, to perform dimension reduction.
 
 --------------------------------
 ## Kruskal Wallis test
@@ -132,19 +146,3 @@ It means that `carbon dioxide uptake rates` have different distribution between 
 
  This multiple-comparison post-hoc correction is used when you are performing many independent or dependent statistical tests at the same time. The problem with running many simultaneous tests is that the probability of a significant result increases with each test run. This post-hoc test sets the significance cut off at α/n. For example, if you are running 20 simultaneous tests at α=0.05, the correction would be 0.0025. More detail. The Bonferroni does suffer from a loss of power. This is due to several reasons, including the fact that Type II error rates are high for each test. In other words, it overcorrects for Type I errors.
 [more information](https://www.statisticshowto.datasciencecentral.com/post-hoc/)
-
-
-----------------------------
-## Analysis steps in LEfSe
-
- There are ***3 steps*** in LEfSe analysis.
-<center><a href="/assets/lefse/post_hoc.png" data-title="post hoc">
-  <img src="/assets/lefse/lefse_step.png" title="post hoc" width="50%" height="50%">
-</a></center>
- 
-1. *Step 1*
-   : **Kruskal-Wallis test** to detect features with significant differential abundance in different groups
-2. *Step 2*
-   : biological consistency is subsequently investigated using a set of pairwise tests among subclasses using the (unpaired) **Wilcoxon rank-sum test**
-3. *Step 3*
-   : **LDA** to estimate the effect size of each differentially abundant feature and, if desired by the investigator, to perform dimension reduction.
