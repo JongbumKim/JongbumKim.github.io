@@ -137,5 +137,16 @@ It means that `carbon dioxide uptake rates` have different distribution between 
 ----------------------------
 ## Analysis steps in LEfSe
 
- There are 3 steps in LEfSe analysis.
+<h3>There are 3 steps in LEfSe analysis.</h3>
+<center><a href="/assets/lefse/post_hoc.png" data-title="post hoc">
+  <img src="/assets/lefse/lefse_step.png" title="post hoc" width="50%" height="50%">
+</a></center>
  
+<ol>
+  <li>Step 1</li>
+       : to detect features with significant differential abundance in different groups
+  <li>Step 2</li>
+       : biological consistency is subsequently investigated using a set of pairwise tests among subclasses using the (unpaired) Wilcoxon rank-sum test
+  <li>Step 3</li>
+       : *LDA* to estimate the effect size of each differentially abundant feature and, if desired by the investigator, to perform dimension reduction.
+</ol>
