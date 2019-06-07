@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Today's words"
+author: JB
+date:   2019-06-07
+categories: Daily_Words
+---
