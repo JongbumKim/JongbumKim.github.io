@@ -5,3 +5,205 @@ author: JB
 date:   2019-06-07
 categories: Daily_Words
 ---
+
+<details>
+   <summary>nourishing</summary>
+   adj. 자양이 되는, 자양분이 많은
+</details>
+
+<details>
+   <summary>chisel</summary>
+   n. 끌, 조각칼
+</details>
+
+<details>
+   <summary>rig</summary>
+   v. (배를 사용 가능하게) 준비하다
+</details>
+
+<details>
+   <summary>plunder</summary>
+   v. 약탈하다, 노략질하다, 강탈하다
+</details>
+
+<details>
+   <summary>burrow </summary>
+   n. 굴, 피신처, 은신처
+</details>
+
+<details>
+   <summary>dwell </summary>
+   v. 살다, 거주하다 
+</details>
+
+<details>
+   <summary>periphery</summary>
+   n. 주위, 주변, 바깥둘레
+</details>
+
+<details>
+   <summary>flutter</summary>
+   v. 펄럭이다, 나부끼다
+</details>
+
+<details>
+   <summary>illogical</summary>
+   adj. 비논리적인, 불합리한, 조리에 맞지 않는
+</details>
+
+<details>
+   <summary>irritation </summary>
+   n. 짜증나게 함, 격앙
+</details>
+
+<details>
+   <summary>brink</summary>
+   n. (벼랑∙물가의) 가장자리, 직전
+</details>
+
+<details>
+   <summary>fetus</summary>
+   n. (임신 9주 후의) 태아
+</details>
+
+<details>
+   <summary>coronary </summary>
+   adj. 동맥의, 심장의
+</details>
+
+<details>
+   <summary>painfully </summary>
+   adv. 극도로, 고통스럽게, 고생하여
+</details>
+
+<details>
+   <summary>malleable</summary>
+   adj. (쇠를) 늘일 수 있는, 단련할 수 있는
+</details>
+
+<details>
+   <summary>scorn</summary>
+   v. 경멸하다, 멸시하다
+</details>
+
+<details>
+   <summary>exponent</summary>
+   n. 해설자, 설명자
+</details>
+
+<details>
+   <summary>exhort</summary>
+   v. 간곡히 타이르다, 권하다
+</details>
+
+<details>
+   <summary>illustrate </summary>
+   v. 설명하다, 예증하다
+</details>
+
+<details>
+   <summary>empirical</summary>
+   adj. 경험적인, 경험상의
+</details>
+
+-------------------------------------------
+
+<details>
+   <summary>adj. 자양이 되는, 자양분이 많은</summary>
+   nourishing
+</details>
+
+<details>
+   <summary>n. 끌, 조각칼</summary>
+   chisel
+</details>
+
+<details>
+   <summary>v. (배를 사용 가능하게) 준비하다</summary>
+   rig
+</details>
+
+<details>
+   <summary>v. 약탈하다, 노략질하다, 강탈하다</summary>
+   plunder
+</details>
+
+<details>
+   <summary>n. 굴, 피신처, 은신처</summary>
+   burrow 
+</details>
+
+<details>
+   <summary>v. 살다, 거주하다 </summary>
+   dwell 
+</details>
+
+<details>
+   <summary>n. 주위, 주변, 바깥둘레</summary>
+   periphery
+</details>
+
+<details>
+   <summary>v. 펄럭이다, 나부끼다</summary>
+   flutter
+</details>
+
+<details>
+   <summary>adj. 비논리적인, 불합리한, 조리에 맞지 않는</summary>
+   illogical
+</details>
+
+<details>
+   <summary>n. 짜증나게 함, 격앙</summary>
+   irritation 
+</details>
+
+<details>
+   <summary>n. (벼랑∙물가의) 가장자리, 직전</summary>
+   brink
+</details>
+
+<details>
+   <summary>n. (임신 9주 후의) 태아</summary>
+   fetus
+</details>
+
+<details>
+   <summary>adj. 동맥의, 심장의</summary>
+   coronary 
+</details>
+
+<details>
+   <summary>adv. 극도로, 고통스럽게, 고생하여</summary>
+   painfully 
+</details>
+
+<details>
+   <summary>adj. (쇠를) 늘일 수 있는, 단련할 수 있는</summary>
+   malleable
+</details>
+
+<details>
+   <summary>v. 경멸하다, 멸시하다</summary>
+   scorn
+</details>
+
+<details>
+   <summary>n. 해설자, 설명자</summary>
+   exponent
+</details>
+
+<details>
+   <summary>v. 간곡히 타이르다, 권하다</summary>
+   exhort
+</details>
+
+<details>
+   <summary>v. 설명하다, 예증하다</summary>
+   illustrate 
+</details>
+
+<details>
+   <summary>adj. 경험적인, 경험상의</summary>
+   empirical
+</details>
