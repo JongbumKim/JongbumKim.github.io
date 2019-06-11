@@ -1,0 +1,207 @@
+
+
+
+
+<details>
+   <summary>hothouse</summary>
+   n. 온실, 건조실
+</details>
+
+<details>
+   <summary>fracture</summary>
+   n. 골절, 부러짐, 균열
+</details>
+
+<details>
+   <summary>acknowledge</summary>
+   v. 인정하다, 사례하다, 감사하다
+</details>
+
+<details>
+   <summary>piracy</summary>
+   n. 해적질
+</details>
+
+<details>
+   <summary>languid</summary>
+   adj. 나른한, 노곤한, 활발하지 못한
+</details>
+
+<details>
+   <summary>menace</summary>
+   n. 협박, 위협, 공갈
+</details>
+
+<details>
+   <summary>sluice</summary>
+   n. 수문, 수갑
+</details>
+
+<details>
+   <summary>ensure</summary>
+   v. 안전하게 하다, 지키다, 보증하다
+</details>
+
+<details>
+   <summary>literally</summary>
+   adv. 글자 뜻대로, 사실상
+</details>
+
+<details>
+   <summary>venal</summary>
+   adj. 돈으로 좌우되는, 부패한
+</details>
+
+<details>
+   <summary>winsome </summary>
+   adj. 매력 있는, 애교 있는
+</details>
+
+<details>
+   <summary>sincere</summary>
+   adj. 성실한, 참된, 진실의
+</details>
+
+<details>
+   <summary>mimic</summary>
+   adj. 흉내를 잘 내는
+</details>
+
+<details>
+   <summary>stuff</summary>
+   n. 재료, 원료, 자료
+</details>
+
+<details>
+   <summary>redeem</summary>
+   v. 되사다, 도로 찾다
+</details>
+
+<details>
+   <summary>granite</summary>
+   n. 화강암
+</details>
+
+<details>
+   <summary>dodge</summary>
+   v. 피하다, 날쌔게 비키다
+</details>
+
+<details>
+   <summary>adjoin</summary>
+   v. …에 인접하다
+</details>
+
+<details>
+   <summary>editorial</summary>
+   adj. 편집자의, 편집의
+</details>
+
+<details>
+   <summary>microbe</summary>
+   n. 미생물, 세균, 병원균
+</details>
+
+
+-----------------------------------------------------------------------
+
+<details>
+   <summary>n. 온실, 건조실</summary>
+   hothouse
+</details>
+
+<details>
+   <summary>n. 골절, 부러짐, 균열</summary>
+   fracture
+</details>
+
+<details>
+   <summary>v. 인정하다, 사례하다, 감사하다</summary>
+   acknowledge
+</details>
+
+<details>
+   <summary>n. 해적질</summary>
+   piracy
+</details>
+
+<details>
+   <summary>adj. 나른한, 노곤한, 활발하지 못한</summary>
+   languid
+</details>
+
+<details>
+   <summary>n. 협박, 위협, 공갈</summary>
+   menace
+</details>
+
+<details>
+   <summary>n. 수문, 수갑</summary>
+   sluice
+</details>
+
+<details>
+   <summary>v. 안전하게 하다, 지키다, 보증하다</summary>
+   ensure
+</details>
+
+<details>
+   <summary>adv. 글자 뜻대로, 사실상</summary>
+   literally
+</details>
+
+<details>
+   <summary>adj. 돈으로 좌우되는, 부패한</summary>
+   venal
+</details>
+
+<details>
+   <summary>adj. 매력 있는, 애교 있는</summary>
+   winsome 
+</details>
+
+<details>
+   <summary>adj. 성실한, 참된, 진실의</summary>
+   sincere
+</details>
+
+<details>
+   <summary>adj. 흉내를 잘 내는</summary>
+   mimic
+</details>
+
+<details>
+   <summary>n. 재료, 원료, 자료</summary>
+   stuff
+</details>
+
+<details>
+   <summary>v. 되사다, 도로 찾다</summary>
+   redeem
+</details>
+
+<details>
+   <summary>n. 화강암</summary>
+   granite
+</details>
+
+<details>
+   <summary>v. 피하다, 날쌔게 비키다</summary>
+   dodge
+</details>
+
+<details>
+   <summary>v. …에 인접하다</summary>
+   adjoin
+</details>
+
+<details>
+   <summary>adj. 편집자의, 편집의</summary>
+   editorial
+</details>
+
+<details>
+   <summary>n. 미생물, 세균, 병원균</summary>
+   microbe
+</details>
+
