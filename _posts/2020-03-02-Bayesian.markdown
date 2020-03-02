@@ -26,9 +26,13 @@ Suppose also, we have 12 computer science majors.
 And of which, 4 are female. So then, we can ask questions about probabilities of the segment population.
 
 $P(F) = \frac{9}{30} = \frac{3}{10}$
+
 $P(CS) = \frac{12}{30} = \frac{2}{5}$
+
 $P(F \cap CS) = \frac{4}{30} = \frac{2}{15}$
+
 $P(F|CS) = \frac{P(F \cap CS)}{P(CS)} = \frac{2/15}{2/5} = \frac{1}{3}$
+
 $P(F|CS^{c}) = \frac{P(F \cap CS^{c})}{P(CS^{c})} = \frac{5/30}{18/30} = \frac{5}{12}$
 
 
