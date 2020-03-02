@@ -18,8 +18,7 @@ Conditional probability is when we're trying to consider two events that are rel
 So we can ask, what is the probability of event A given that we know event B happened?
 This is defined as the probability that both events A and B happened divided by the probability that event B happens.
 
-$\lim_{x \to \infty} \exp(-x) = 0$
-$\P(A|B) = \P(A \and B)$
+$P(A|B) = P(A \cap B)$
 --------------------------------
 ## Non-paramteric data
 
