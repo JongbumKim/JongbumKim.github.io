@@ -5,6 +5,7 @@ author: JB
 date:   2020-03-02
 categories: Statistics
 tags:	Bayesian
+use_math: true
 description: 
 cover:  "/assets/instacode.png"
 ---
