@@ -97,9 +97,18 @@ This is over 90% accurate, what sort of number do you expect to get in this case
 let's do the calculation.
 
 The probability they test positive given they have HIV is 0.977. $P(HIV \mid +) = 0.977$
-The probability that they have HIV is 0.0026. $P(HIV) = 0.0026$
-The probability they test positive given they don't have HIV, that's 1 minus $P(- \mid no HIV)$.  $P(1 - 0.926)$
-The probability that they don't have HIV, that's 1 minus $P(HIV)$. $P(1 - 0.0026)$
+
+The probability that they have HIV is 0.0026.
+
+ - $P(HIV) = 0.0026$
+
+The probability they test positive given they don't have HIV, that's 1 minus $P(1- \mid no HIV)$.
+
+ - $P(1 - 0.926)$
+
+The probability that they don't have HIV, that's 1 minus $P(HIV)$.
+ - $P(1 - 0.0026)$
+
 
 If we now plug that into a calculator.
 
@@ -111,6 +120,7 @@ The probability they have HIV is less then 4%, even though they've tested positi
 
 Is this surprising? It is for most people. Why is this so?
 
+
 It's because this is a rare disease and this is actually fairly common a problem for rare diseases.
 
 The number of false positives, greatly outnumbers the true positives because it's a rare disease.
@@ -121,7 +131,9 @@ This obviously has important policy implications for things like mandatory testi
 
 It makes much more sense to test in a sub population where the prevalence of HIV is higher, rather than in a general population where it's quite rare.
 
+
 To conclude,
+
 
 Bayes' Theorem is an important part of our approach to Bayesian statistics.
 
