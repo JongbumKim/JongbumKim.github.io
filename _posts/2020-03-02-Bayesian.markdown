@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bayesian Theory"
-author: JB
+author: 
 date:   2020-03-02
 categories: Statistics
 tags:	Bayesian
