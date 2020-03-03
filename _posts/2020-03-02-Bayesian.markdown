@@ -63,6 +63,70 @@ $P(CS \mid F) = \frac{P(F \mid CS)P(CS)}{P(F \mid CS)P(CS) + P(F \mid CS^{c})P(C
              
 $P(CS \mid F) = \frac{P(CS \cap F)}{P(F)} = \frac{4/30}{9/30} = \frac{4}{9}$
 
+Another example was an early test for HIV antibodies known as the ELISA test. 
+
+In that case,
+
+$P(+ \mid HIV) = 0.977$
+
+$P(- \mid no HIV) = 0.926$
+
+So this is a pretty accurate test. Today's tests are much more accurate, but in the early days this was still pretty good.
+
+That point a study found that among North American's, probability that a North American would have HIV was about 0.0026. 
+
+$P(HIV) = 0.0026$
+
+So then we could ask,
+
+if we randomly selected someone from North America and we tested them and they tested positive for HIV,
+
+what's the probability that they actually have HIV given they've tested positive.
+$P(HIV \mid +)$
+
+This case we don't have all the information to compute it directly as easily but we have the information in the reverse direction of conditioning,
+
+and so it's the perfect time to use Bayes' Theorem.
+
+$P(HIV \mid +) = \frac{P(+ \mid HIV)P(HIV)}{P(+ \mid HIV)P(HIV) + P(+ \mid no HIV)P(no HIV)}$
+
+Before we go any further, I ask you to stop and think briefly.
+
+This is over 90% accurate, what sort of number do you expect to get in this case?
+
+let's do the calculation.
+
+The probability they test positive given they have HIV is 0.977. $P(HIV \mid +) = 0.977$
+The probability that they have HIV is 0.0026. $P(HIV) = 0.0026$
+The probability they test positive given they don't have HIV, that's 1 minus $P(- \mid no HIV)$.  $P(1 - 0.926)$
+The probability that they don't have HIV, that's 1 minus $P(HIV)$. $P(1 - 0.0026)$
+
+If we now plug that into a calculator.
+
+$P(HIV \mid +) = \frac{(.977)(.0026)}{(.977)(.0026)+(1-.926)(1-.0026)} = .033$
+
+We get this probability to be 0.033.
+
+The probability they have HIV is less then 4%, even though they've tested positive on a test that is nominally quite accurate.
+
+Is this surprising? It is for most people. Why is this so?
+
+It's because this is a rare disease and this is actually fairly common a problem for rare diseases.
+
+The number of false positives, greatly outnumbers the true positives because it's a rare disease.
+
+So even though the test is very accurate, we get more false positives than we get true positives.
+
+This obviously has important policy implications for things like mandatory testing.
+
+It makes much more sense to test in a sub population where the prevalence of HIV is higher, rather than in a general population where it's quite rare.
+
+To conclude,
+
+Bayes' Theorem is an important part of our approach to Bayesian statistics.
+
+We can use it to update our information. We start with prior beliefs, we'll collect data, we'll then condition on the data to lead to our posterior beliefs. Bayes' Theorem is the coherent way to do this updating.
+
 
 
 
