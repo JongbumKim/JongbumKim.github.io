@@ -55,9 +55,12 @@ $P(F \mid CS) \neq P(F)$
 $P(A \mid B) = \frac{P(B \mid A)P(A)}{P(B \mid A)P(A) + P(B \mid A^{c})P(A^{c})} = \frac{P(A \cap B)}{P(B)}$
 
 So to work this out in the context of the example of computer science and females in the class.
+
 We can say,
+
 $P(CS \mid F) = \frac{P(F \mid CS)P(CS)}{P(F \mid CS)P(CS) + P(F \mid CS^{c})P(CS^{c})}$
              $= \frac{(\frac{1}{3})(\frac{2}{5})}{(\frac{1}{3})(\frac{2}{5})+(\frac{5}{18})(\frac{3}{5})=\frac{4}{9}}$
+             
 $P(CS \mid F) = \frac{P(CS \cap F)}{P(F)} = \frac{4/30}{9/30} = \frac{4}{9}$
 
 
